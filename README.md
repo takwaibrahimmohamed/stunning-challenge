@@ -20,13 +20,19 @@ cd stunning-challenge
 
 
  **Start the backend (NestJS)
+ 
 cd backend
+
 npm install
+
  npm run start:dev
 
 
 ** Start the frontend (Next.js)
+
 cd frontend
+
 npm install
+
 npm run dev
 
