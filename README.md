@@ -17,10 +17,14 @@
 - Setup Instructions
 git clone https://github.com/takwaibrahimmohamed/stunning-challenge.git
 cd stunning-challenge
+
+
  **Start the backend (NestJS)
 cd backend
 npm install
  npm run start:dev
+
+
 ** Start the frontend (Next.js)
 cd frontend
 npm install
