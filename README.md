@@ -16,6 +16,7 @@
 
 - Setup Instructions
 git clone https://github.com/takwaibrahimmohamed/stunning-challenge.git
+
 cd stunning-challenge
 
 
